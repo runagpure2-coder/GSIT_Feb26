@@ -21,7 +21,7 @@ public class Assignment_8 {
 	            count++;
 	        }
 
-	        // Step 3: Print result
+	        
 	        System.out.print("Array after moving zeros: ");
 	        for (int i = 0; i < arr.length; i++) {
 	            System.out.print(arr[i] + " ");
